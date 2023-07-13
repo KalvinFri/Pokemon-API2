@@ -1,0 +1,11 @@
+.infoCard{
+    background-color: black;
+    display: inline-block;
+    margin: 20px;
+    width: 150px !important;
+    border: 5px solid red;
+}
+
+img{
+    width: 100px;
+}

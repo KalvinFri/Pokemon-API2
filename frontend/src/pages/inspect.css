@@ -1,0 +1,20 @@
+button{
+    background-color: black;
+    border: 5px, black;
+    font-family: sans-serif;
+    height: 70px;
+    width: 100px;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+}
+
+input{
+    background-color: white;
+    border-style: none;
+    font-family: sans-serif;
+    height: 68px;
+    width: 400px;
+    font-weight: 700;
+    font-size: 30px;
+}

@@ -1,0 +1,22 @@
+ul{
+    padding: 30px;
+    margin: -5px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+li{
+    display: inline;
+    padding: 30px 100px;
+}
+
+a{
+    text-decoration: none;
+    font: bolder;
+    font-weight: 900;
+    color: #750cf4;
+}
+
+.NavBar {
+    background-color: black;
+}
